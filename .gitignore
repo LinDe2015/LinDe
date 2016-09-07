@@ -1,0 +1,14 @@
+*.iml
+*.gradle
+gradle
+build
+*.properties
+gradlew
+gradlew.bat
+.idea
+test
+androidTest
+*.pro
+.DS_Store
+/captures
+.externalNativeBuild
